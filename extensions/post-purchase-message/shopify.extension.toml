@@ -1,0 +1,10 @@
+name = "post-purchase-message"
+type = "checkout_post_purchase"
+uid = "69946438-5ada-0e04-2539-d5bbefc0633465c2b66a"
+
+[capabilities]
+api_access = true
+
+[[metafields]]
+namespace = "custom"
+key = "message"
